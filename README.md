@@ -1,7 +1,7 @@
 # 👋 Welcome to Diana's GitHub!
 
 ## About Me
-I’m @dianaalvarezz, a third-year computer science student at Northern Illinois University. Delving into the complexities of C++ and Assembly, I'm also expanding my expertise through self-directed learning in CSS, HTML, and JavaScript. My journey from a Nursing major to discovering a passion for programming showcases my adaptability and eagerness to embrace new challenges.
+I’m @dianaalvarezz, a third-year computer science student at Northern Illinois University. Delving into the complexities of C++ and Assembly, I'm also expanding my expertise through self-directed learning in Python, CSS, HTML, and JavaScript. My journey from a Nursing major to discovering a passion for programming showcases my adaptability and eagerness to embrace new challenges.
 
 ## 🚀 My Current Project
 Web development and design captivate me with their blend of technical skill and creative expression. My current endeavor, developing my personal website, [dianasaray.com](http://dianasaray.com), is a vivid reflection of this fascination. This site acts as a dynamic portfolio, chronicling my growth as a developer, displaying my projects, and detailing the skills I've acquired. Built using HTML, CSS, and JavaScript, it's not only a medium for showcasing my creativity but also a valuable hands-on learning experience.
