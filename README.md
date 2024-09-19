@@ -1,22 +1,33 @@
 # 👋 Welcome to Diana's GitHub!
 
 ## About Me
-I’m @dianaalvarezz, a third-year computer science student at Northern Illinois University. Delving into the complexities of C++ and Assembly, I'm also expanding my expertise through self-directed learning in Python, CSS, HTML, and JavaScript. My journey from a Nursing major to discovering a passion for programming showcases my adaptability and eagerness to embrace new challenges.
+I’m @dianaalvarezz, a senior computer science student at Northern Illinois University, set to graduate in May 2025. My journey from Nursing to Computer Science has been one of constant discovery and growth, and I’m now focused on software development, specializing in Android mobile applications. With a passion for building creative, impactful solutions, I’m also experienced in technologies like Python, C++, HTML, CSS, and JavaScript.
 
 ## 🚀 My Current Project
-Web development and design captivate me with their blend of technical skill and creative expression. My current endeavor, developing my personal website, [dianasaray.com](http://dianasaray.com), is a vivid reflection of this fascination. This site acts as a dynamic portfolio, chronicling my growth as a developer, displaying my projects, and detailing the skills I've acquired. Built using HTML, CSS, and JavaScript, it's not only a medium for showcasing my creativity but also a valuable hands-on learning experience.
+As I dive deeper into mobile app development, I’m working on an Android application that aims to blend usability with intuitive design. This project is helping me strengthen my skills in Java/Kotlin and the Android SDK, while reinforcing the principles of UI/UX design. You can check out my progress on GitHub and see my evolving journey in mobile development.
 
 ## 💡 Interests
-My interests lie at the intersection of technology and creativity, with a keen focus on front-end development. I am also venturing into backend technologies, aiming to round out my skill set as a full-stack developer. This journey is fueled by a continuous desire to learn, create, and innovate.
+While I’m passionate about mobile app development, my curiosity spans across various areas of tech, including:
+- Full-stack development
+- Data Science & Machine Learning
+- Artificial Intelligence
+- Time Series Classification
+
+I’m also a strong advocate for diversity in STEM, particularly supporting women and Latinas in tech, and have been actively involved in leadership roles within student organizations.
+
+## 💼 Professional Experience
+In addition to my studies, I’ve had the opportunity to intern at Northrop Grumman and Fermi National Accelerator Laboratory, where I worked on debrief tools using .NET and Avalonia, as well as time series classification systems for magnets using Python. These roles allowed me to work within Agile teams, hone my problem-solving skills, and contribute to cutting-edge projects.
+
+## 📱 Mobile App Development
+Learning Android has opened up a world of creativity for me, and I’m excited to continue building applications that provide real value to users. My goal is to become a proficient full-stack mobile developer and create apps that are as functional as they are aesthetically pleasing.
 
 ## 📫 Connect With Me
-Feel free to reach out to me at diana.alvarez7403@gmail.com for technology discussions, project collaborations, or learning opportunities. I'm all about connecting with like-minded individuals and expanding our horizons together.
+Let’s collaborate! Whether you’re interested in mobile development, data science, or software engineering, feel free to reach out at diana.alvarez7403@gmail.com. I’m always open to discussing new ideas, collaborating on projects, or exploring learning opportunities.
 
 ## ⚡ Fun Fact
-Switching majors from Nursing to Computer Science was a pivotal moment in my life. It marked the beginning of a profound journey into the world of programming—a realm where creativity knows no bounds. My GitHub serves as a window into this journey, highlighting the evolution of my skills and the limitless potential of coding.
+Switching majors from Nursing to Computer Science has been one of the best decisions I’ve made. It’s not just about writing code; it’s about creating solutions that can impact lives in meaningful ways. I’m excited about what the future holds and look forward to contributing to the tech community.
 
 ### Projects Showcase
-**Personal Website ([dianasaray.com](http://dianasaray.com)):** My personal website stands as a comprehensive showcase of my programming journey, featuring the projects I've undertaken and the diverse skills I've developed. It's a testament to my dedication to learning, growing, and pushing the boundaries of what I can create.
-
-### Let's Connect!
-If you're interested in collaborating, sharing ideas, or simply want to talk tech, don't hesitate to reach out. I'm always on the lookout for opportunities to connect with fellow developers and creatives. Let's make something amazing together!
+- **Android Mobile App Development:** My current focus is on developing a fully functional Android app. This project is pushing me to integrate back-end functionality with clean, user-friendly design.
+- **AI Research Project:** Collaborating with FermiLab, I’m building a binary time series classification system, applying machine learning to solve complex problems in magnet research.
+- **Personal Website ([dianasaray.com](http://dianasaray.com)):** A showcase of my portfolio, featuring past projects in web development, data science, and more.
